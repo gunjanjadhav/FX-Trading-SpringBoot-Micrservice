@@ -1,4 +1,4 @@
-package com.FXTrading-SpringBoot Microservice.services;
+package com.FXTrading-SpringBoot Micrservice.services;
 
 import java.util.ArrayList;
 import java.util.HashMap;
